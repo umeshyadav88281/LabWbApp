@@ -1,0 +1,9 @@
+D:\ASP.NET\COMP2084ASP.NET\LabWbApp\LabWbApp\obj\Debug\net6.0\LabWbApp.csproj.AssemblyReference.cache
+D:\ASP.NET\COMP2084ASP.NET\LabWbApp\LabWbApp\obj\Debug\net6.0\LabWbApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\COMP2084ASP.NET\LabWbApp\LabWbApp\obj\Debug\net6.0\LabWbApp.AssemblyInfoInputs.cache
+D:\ASP.NET\COMP2084ASP.NET\LabWbApp\LabWbApp\obj\Debug\net6.0\LabWbApp.AssemblyInfo.cs
+D:\ASP.NET\COMP2084ASP.NET\LabWbApp\LabWbApp\obj\Debug\net6.0\LabWbApp.csproj.CoreCompileInputs.cache
+D:\ASP.NET\COMP2084ASP.NET\LabWbApp\LabWbApp\obj\Debug\net6.0\LabWbApp.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP.NET\COMP2084ASP.NET\LabWbApp\LabWbApp\obj\Debug\net6.0\LabWbApp.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET\COMP2084ASP.NET\LabWbApp\LabWbApp\obj\Debug\net6.0\LabWbApp.RazorAssemblyInfo.cache
+D:\ASP.NET\COMP2084ASP.NET\LabWbApp\LabWbApp\obj\Debug\net6.0\LabWbApp.RazorAssemblyInfo.cs
